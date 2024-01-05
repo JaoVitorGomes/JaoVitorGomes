@@ -9,12 +9,12 @@
 </div>&nbsp;&nbsp
 
 
-<div>  
+<div align="center">  
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=JaoVitorGomes&show_icons=true&count_private=true&hide_border=false&theme=radical" alt="João Vitor github stats" />
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVitorGomes&layout=compact&hide_border=false&theme=radical" alt="João Vitor top langs" /> 
 </div>
 
-<div >  
+<div align="center">  
   <img height="195px"  src="https://github-readme-streak-stats.herokuapp.com?user=JaoVitorGomes&theme=radical&mode=weekly" alt="João Vitor streak" /> 
 </div>
 
