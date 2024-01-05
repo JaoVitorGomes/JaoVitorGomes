@@ -15,7 +15,7 @@
 </div>
 
 <div >  
-  <img width="81%"  src="https://github-readme-streak-stats.herokuapp.com?user=JaoVitorGomes&theme=radical&mode=weekly" alt="João Vitor streak" /> 
+  <img height="195px"  src="https://github-readme-streak-stats.herokuapp.com?user=JaoVitorGomes&theme=radical&mode=weekly" alt="João Vitor streak" /> 
 </div>
 
 
